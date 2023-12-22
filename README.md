@@ -1,4 +1,4 @@
-#Nursing Home Management System - LifeSpring
+**Nursing Home Management System - LifeSpring**
 
 Hello, I'm Lee Xiao Qi, a final-year student who studying Bachelor of Software Engineering at Southern University College, under the guidance of my supervisor, Mr. So Yong Quay.
 
